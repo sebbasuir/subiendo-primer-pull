@@ -3,3 +3,5 @@
 Hola soy tu amigo y docente digital Perruna, bienvenido a mi curso
 
 Las mascotas pueden ser comunes como cat y dog, pero curiosas como pollos, cuyes, etc.
+
+Este commit es para oficializar nuestra version **0.0.1**. 
