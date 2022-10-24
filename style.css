@@ -1,4 +1,12 @@
 html{
     background: black;
     color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+a{
+    color: orange;
+}
+a:hover{
+    color: orangered;
 }
