@@ -1,0 +1,98 @@
+* commit ccfe5c4153f41bf2de2408967deb8f3828bd499e
+| Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| Date:   Mon Oct 24 08:46:49 2022 -0500
+| 
+|     Agregandos 2 parrafos
+|   
+*   commit 995d0a907b5c7a52099d9adfa9aaef39b162b3e9
+|\  Merge: 02fb55e 67975f6
+| | Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| | Date:   Mon Oct 24 08:39:16 2022 -0500
+| | 
+| |     Resolviendo conflicto en estaciones del año con fecha
+| | 
+| * commit 67975f61cff4e65e750d0318bc5d32295edefc2b
+| | Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| | Date:   Sun Oct 23 19:53:16 2022 -0500
+| | 
+| |     Agregando las estaciones del año
+| | 
+* | commit 02fb55e575c0ab7f6a6eea3bd7910fcb351a83f4
+|/  Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+|   Date:   Sun Oct 23 19:53:16 2022 -0500
+|   
+|       Elimini un elemento y anteriormente puse las estaciones del año con fecha
+|   
+*   commit 137ae20e9ad50c6904b7bd6e96944371cab5ba50
+|\  Merge: b283ae3 d23aac9
+| | Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| | Date:   Sun Oct 23 19:43:56 2022 -0500
+| | 
+| |     Resolviendo conflictos merge main/html en el documento index.html
+| | 
+| * commit d23aac97ef7e30df9572c39f574f98534a8dd208
+| | Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| | Date:   Sun Oct 23 19:34:04 2022 -0500
+| | 
+| |     Agregando index.js al index.html
+| | 
+* | commit b283ae39837c315071bdea73c6b5f6cae9152c65
+| | Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| | Date:   Sun Oct 23 19:30:26 2022 -0500
+| | 
+| |     Agregando style.css al index.html
+| |   
+* |   commit 6b52f47afaf3189dfd46f100143e45cb934f503e
+|\ \  Merge: 967026e 5c731a2
+| | | Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| | | Date:   Sun Oct 23 19:18:31 2022 -0500
+| | | 
+| | |     Merge branch 'js'
+| | | 
+| * | commit 5c731a23598497a7ef7a5b57df0c6a26cb2e9af7
+| | | Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| | | Date:   Sun Oct 23 18:12:29 2022 -0500
+| | | 
+| | |     Creando index.js
+| | | 
+* | | commit 967026e10824ceab5dda9108efd65e802cff1ee5
+| |/  Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+|/|   Date:   Sun Oct 23 18:06:37 2022 -0500
+| |   
+| |       Creando style.css
+| | 
+* | commit 4e4949ee944bedd50e46beb3727224f54a6f729d
+|/  Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+|   Date:   Sun Oct 23 17:53:43 2022 -0500
+|   
+|       Creando index.html
+| 
+* commit 953c5d1799b71cfbd78d3d835da2902504677cd7
+| Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| Date:   Sun Oct 23 16:35:42 2022 -0500
+| 
+|     Ignorando archivos .exe
+| 
+* commit 740858c28deb724fffb109c05530ddd0ae5905b5
+| Author: sebbasuir <113564721+sebbasuir@users.noreply.github.com>
+| Date:   Sun Oct 23 12:24:43 2022 -0500
+| 
+|     Creando licensia del repositorio
+| 
+* commit 2665c10e1692559487ae7b760dd347e0ee776e60
+| Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| Date:   Sun Oct 23 12:14:51 2022 -0500
+| 
+|     Agregando mas contenido  al README
+| 
+* commit 141080257cd80b88da846aabeffd6b7f7f3c7714
+| Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+| Date:   Sun Oct 23 10:59:23 2022 -0500
+| 
+|     Agregando contenido digital al REDAME
+| 
+* commit 42ac8468fa25b572b65c9fd49d0387de9bd6fa17
+  Author: Sebastian Ruiz Pulache <sebastianruizpulache@gmail.com>
+  Date:   Sun Oct 23 10:52:26 2022 -0500
+  
+      mensaje descriptivo del cambio
